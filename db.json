@@ -1,0 +1,81 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Rizky",
+          "alamat": "Garut",
+          "umur" : 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 2,
+          "nama": "Ridwan",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 3,
+          "nama": "Rizal",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 4,
+          "nama": "Fakhri",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 5,
+          "nama": "Dewi",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 6,
+          "nama": "Maman",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 7,
+          "nama": "Alinsi",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 8,
+          "nama": "Petra",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 9,
+          "nama": "Eleanor",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 10,
+          "nama": "Novianti",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        },
+        {
+          "id": 11,
+          "nama": "Tatang",
+          "alamat": "Garut",
+          "umur": 22,
+          "noHp": "02209329302"
+        }
+      ]
+}
